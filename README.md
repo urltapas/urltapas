@@ -63,8 +63,7 @@
 <h1 align="center"> Git Stats </h1>
       
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=rlksx&show_icons=true&theme=graywhite"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlksx&layout=compact&theme=graywhite"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rlksx&show_icons=true&theme=graywhite" width=50%/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlksx&layout=compact&theme=graywhite" width=42%/>
 </div>
-
    
