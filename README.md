@@ -15,7 +15,7 @@
       alt="ryan.bromati@hotmail.com"
       title="ryan.bromati@hotmail.com"
       ><img
-         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white target="_blank""
          target="_blank"
    /></a>
    <a
@@ -24,20 +24,20 @@
       alt="@rlksx"
       title="@rlksx"
       ><img
-         src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+         src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white target="_blank""
    /></a>
    <a
       href="https://www.discordapp.com/users/279691323756380161"
       target="_blank"
       alt="https://www.discordapp.com/users/760696111715057715"
       ><img
-         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
+         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white target="_blank""
    /></a>
    <a
       href="https://www.linkedin.com/in/rlksx/"
       alt="https://www.linkedin.com/in/rlksx"
       ><img
-         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target="_blank""
    /></a>
 </div>
 
