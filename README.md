@@ -64,6 +64,6 @@
       
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=rlksx&show_icons=true&theme=graywhite" width=50%/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlksx&layout=compact&theme=graywhite" width=42%/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlksx&layout=compact&theme=graywhite" width=44%/>
 </div>
    
