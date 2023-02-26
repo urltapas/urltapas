@@ -62,8 +62,8 @@
 <!-- Git Stats -->
 <h1 align="center"> Git Stats </h1>
       
-<div align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=rlksx&show_icons=true&theme=dark&hide_border=true&bg_color=161b22" width=50%/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlksx&layout=compact&theme=dark&hide_border=true&bg_color=161b22" width=44%/>
+<div align=center display=flex>
+<img src="https://github-readme-stats.vercel.app/api?username=rlksx&show_icons=true&theme=dark&hide_border=true&bg_color=161b22" width=55%/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlksx&layout=compact&theme=dark&hide_border=true&bg_color=161b22" width=42%/>
 </div>
    
